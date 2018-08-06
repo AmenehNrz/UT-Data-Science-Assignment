@@ -39,3 +39,19 @@ Task 3: Use a "Scatter Plot" node and select "sepal_width" as x axis and "petal_
 Task 4: Filter and exclude the row which was selected in the previous task.
 
 Task 5: Use the "GroupBy" node to calculate the mean of "sepal_length", "sepal_width", "petal_length" and "petal_width" for each class in Iris dataset.
+
+-------------------------------------
+
+Session 4 Assignment: To complete this assignment you have to upload 1 file (.knwf) to your repo. Be aware that this is your final assignment and it's a bit challenging.
+
+Task 1: Read adult.csv file and filter the following columns: "age", "education", "sex", "income".
+
+Task 2: Create 2 partitions at the ratio of 3:1.
+
+Task 3: Build a decision tree model to predict the "income" base on the other attributes.
+
+Task 4: Evaluate the model by using the "Scorer" node.
+
+Task 5: Use the "Table Creator" node to input your own attributes and predict your income based on the model (Use another decision tree predictor node).
+
+Special Task (25% of assignment score): Following task 1, in a separate flow, calculate the probability of your income being above 50K based on your own attributes and the current dataset.
