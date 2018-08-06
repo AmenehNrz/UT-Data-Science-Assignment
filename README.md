@@ -44,7 +44,7 @@ Task 5: Use the "GroupBy" node to calculate the mean of "sepal_length", "sepal_w
 
 Session 4 Assignment: To complete this assignment you have to upload 1 file (.knwf) to your repo. Be aware that this is your final assignment and it's a bit challenging.
 
-Task 1: Read adult.csv file and filter the following columns: "age", "education", "sex", "income".
+Task 1: Read adult.csv file and filter the dataset to include the following columns: "age", "education", "sex", "income".
 
 Task 2: Create 2 partitions at the ratio of 3:1.
 
