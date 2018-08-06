@@ -48,7 +48,7 @@ Task 1: Read adult.csv file and filter the dataset to include the following colu
 
 Task 2: Create 2 partitions at the ratio of 3:1.
 
-Task 3: Build a decision tree model to predict the "income" base on the other attributes.
+Task 3: Build a decision tree model to predict the "income" based on the other attributes.
 
 Task 4: Evaluate the model by using the "Scorer" node.
 
