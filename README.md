@@ -54,4 +54,4 @@ Task 4: Evaluate the model by using the "Scorer" node.
 
 Task 5: Use the "Table Creator" node to input your own personal values of the attributes and predict your income based on the model (Use another decision tree predictor node).
 
-Special Task (25% of assignment score): Following task 1, in a separate flow, calculate the probability of your income being above 50K based on your own personal values of the attributes and the same records in the current dataset.
+Special Task (25% of assignment score): Following task 1, in a separate flow, calculate the probability of your income being above 50K based on your own personal values of the attributes and the same records in the dataset which was produced in task 1.
