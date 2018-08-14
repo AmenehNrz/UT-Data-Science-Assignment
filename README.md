@@ -22,7 +22,7 @@ Task 3: Read "Iris.sqlite" database file using appropriate nodes. The output dat
 
 Task 4: Add "Node Monitor" view to the right panel. Take a screenshot while this view is added in KNIME Analytics Platform.
 
-Task 5: Sign up for a KNIME Forum account and get "Autobiographer" and "First Like" badges.
+Task 5: Sign up for a KNIME Forum account and grant "Autobiographer" and "First Like" badges.
 
 -------------------------------------
 
